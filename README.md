@@ -1,7 +1,7 @@
 ## Olá Eu sou o Elton Montilha.
 
 - 🔭 Hoje sou desenvolvedor estagiario front-end.
-- 🌱 Estudando a linguagem Dart e Flutter
+- 🌱 Estudando a linguagem Dart  Flutter e Java
 
 
 <div>
